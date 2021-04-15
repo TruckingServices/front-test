@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.2da0717b.chunk.css",
-    "main.js": "./static/js/main.b6ad808b.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.e431fa8a.js",
-    "static/css/2.ab9130c9.chunk.css": "./static/css/2.ab9130c9.chunk.css",
-    "static/js/2.ac1ccf8f.chunk.js": "./static/js/2.ac1ccf8f.chunk.js",
-    "index.html": "./index.html",
-    "static/js/2.ac1ccf8f.chunk.js.LICENSE.txt": "./static/js/2.ac1ccf8f.chunk.js.LICENSE.txt",
-    "static/js/main.b6ad808b.chunk.js.LICENSE.txt": "./static/js/main.b6ad808b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/TorEmoji.1ee69ea3.woff2",
-    "static/media/index.css": "./static/media/roboto-mono-vietnamese-400-normal.2f4115e7.woff2"
+    "main.css": "/static/css/main.a8bded82.chunk.css",
+    "main.js": "/static/js/main.2779b968.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.5f575376.js",
+    "static/css/2.a7385284.chunk.css": "/static/css/2.a7385284.chunk.css",
+    "static/js/2.b6687005.chunk.js": "/static/js/2.b6687005.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.b6687005.chunk.js.LICENSE.txt": "/static/js/2.b6687005.chunk.js.LICENSE.txt",
+    "static/js/main.2779b968.chunk.js.LICENSE.txt": "/static/js/main.2779b968.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/TorEmoji.1ee69ea3.woff2",
+    "static/media/index.css": "/static/media/roboto-mono-vietnamese-400-normal.2f4115e7.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.e431fa8a.js",
-    "static/css/2.ab9130c9.chunk.css",
-    "static/js/2.ac1ccf8f.chunk.js",
-    "static/css/main.2da0717b.chunk.css",
-    "static/js/main.b6ad808b.chunk.js"
+    "static/js/runtime-main.5f575376.js",
+    "static/css/2.a7385284.chunk.css",
+    "static/js/2.b6687005.chunk.js",
+    "static/css/main.a8bded82.chunk.css",
+    "static/js/main.2779b968.chunk.js"
   ]
 }
